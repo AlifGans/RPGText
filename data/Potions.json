@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "Small Health Potions",
+		"desc" : "Restore 25 HP Cooldown 5 Sec, Get From Shop",
+		"effect" : 25,
+		"itemid" : 1
+	},
+	{
+		"name" : "Medium Health Potions",
+		"desc" : "Restore 20% HP Cooldown 5 Sec",
+		"effect" : 20,
+		"itemid" : 2
+	}
+]

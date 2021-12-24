@@ -1,0 +1,10 @@
+[
+	{
+	"name" : "Slime",
+	"level" : 5,
+	"hp" : 20,
+	"damage" : 5,
+	"xp" : 5,
+	"gold" : 2
+	}
+]

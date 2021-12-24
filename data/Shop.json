@@ -1,0 +1,16 @@
+[
+	{
+		"name" : "Small Health Potions",
+		"desc" : "Restore 25 HP Cooldown 5 Sec, Get From Shop",
+		"itemid" : 1,
+		"price" : 10,
+		"value" : 1
+	},
+	{
+		"name" : "Medium Health Potions",
+		"desc" : "Restore 20% HP Cooldown 5 Sec",
+		"itemid" : 2,
+		"price" : 50,
+		"value" : 1
+	}
+]
